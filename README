@@ -1,9 +1,6 @@
-.skel
-=====
+SDR for S People
+================
 
-This is a skeleton project.  It needs better documentation.
+Software Defined Radio for Software People
 
-Contents:
-
-web/ -- An empty website for this thing
-code/ -- An empty directory for code for this thing
+Copyright (c) 2015 Josh Myer
